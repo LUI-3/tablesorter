@@ -1,11 +1,12 @@
 {
-  "name": "tablesorter",
-  "version": "2.0.5",
-  "homepage": "https://github.com/christianbach/tablesorter.git",
+  "name": "LUI-3_tablesorter",
+  "version": "3.0.15",
+  "homepage": "https://github.com/LUI-3/tablesorter",
   "authors": [
-    "Christian Bach"
+    "Christian Bach",
+    "Jiří Bělský"
   ],
-  "description": "Flexible client-side table sorting",
+  "description": "Flexible client-side table sorting ported to LUI-3 Framework",
   "main": [
     "jquery.metadata.js",
     "jquery.tablesorter.min.js"
